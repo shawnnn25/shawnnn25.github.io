@@ -6,7 +6,7 @@ Personal portfolio website built with HTML, CSS &amp; JavaScript — includes sc
 A dark-themed personal portfolio website built with vanilla HTML, CSS, and JavaScript — no frameworks.
 
 ## Live Site
-[shawnnn25.github.io](https://shawnnn25.github.io)
+https://shawn25-portfolio.vercel.app/
 
 ## Features
 - Typing effect in hero section
